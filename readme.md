@@ -1,3 +1,5 @@
+### Forked to add better error handling 20231012
+
 ![is-email-disposable](https://user-images.githubusercontent.com/698079/98451232-e3ef1c80-2154-11eb-8812-0cd346fc9c6d.png)
 
 A REST API for checking if an e-mail address is disposable (a.k.a. throwaway).
